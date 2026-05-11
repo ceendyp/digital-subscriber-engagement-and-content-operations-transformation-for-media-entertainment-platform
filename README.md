@@ -1,0 +1,2 @@
+# digital-subscriber-engagement-and-content-operations-transformation-for-media-entertainment-platform
+This capstone project focuses on designing a Salesforce solution for StreamSphere Media, a rapidly growing digital entertainment company. The project addresses the challenges of managing subscriber relationships, content licensing, advertising partnerships, and customer support interactions across multiple disconnected systems. Students will assume
